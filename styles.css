@@ -1,0 +1,42 @@
+body {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+th {
+  background-color: #48cae4;
+}
+
+h1 {
+  font-family: "League Spartan", sans-serif;
+}
+
+td {
+  cursor: pointer;
+}
+
+td:hover {
+  background-color: #f7f7f7;
+}
+
+#desc {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+p {
+  font-weight: 500;
+}
